@@ -1,0 +1,7 @@
+{
+  "name": "Riyadah Virtual Assistant _v02",
+  "description": "A conversational voice assistant for Riyadah Co. Ltd powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
